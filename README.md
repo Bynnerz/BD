@@ -1,7 +1,3 @@
-# BD
-feliz cumpleaños
-
-
 <!DOCTYPE html>
 <html>
 <head>
