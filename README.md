@@ -50,7 +50,7 @@
 <div class="Reproductor">		
 	
 	
-	<iframe style="border-radius:52px" src="https://open.spotify.com/embed/track/5FgPwJ7Nh2FVmIXviKl2VF?utm_source=generator&theme=0" width="40%" height="152" frameBorder="20" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+	<iframe style="border-radius:52px" src="https://open.spotify.com/embed/track/5FgPwJ7Nh2FVmIXviKl2VF?utm_source=generator&theme=0" width="50%" height="152" frameBorder="30" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
 	
 <script src="index.js"></script>
